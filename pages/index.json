@@ -1,0 +1,55 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Projects",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Atir Mohammed",
+    "subtitle": "I'm the SPY Developer."
+  },
+  "about": {
+    "title": "About me",
+    "image": "/placeholder.png",
+    "primary": "Since my start in this world of coding, which was a few years ago, it's going slow but steady. i haven't done much now as projects, but i'm still learning, and trying to get better.",
+    "secondary": "Get in touche with me so i can help you reach what you like to see"
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Lorem Movies",
+        "description": "A simple website to watch movies that you like, with cards showing the movies Poster, and when clicked on the Card it takes you to the Film description with a trailer to watch, and a button to watch the movie",
+        "url": "https://medatir.github.io/Lorem_Movies/",
+        "github": "https://github.com/MedAtir/Lorem_Movies",
+        "image": "/Movies_Pic_project.png"
+      },
+      {
+				"title": "To Do App",
+				"description": "A to do app where you can add your notes to be done and delete when you finished doing them",
+				"url": "https://main--preeminent-kleicha-b66f50.netlify.app/",
+        "github": "https://github.com/MedAtir/ToDoList",
+				"image": "/ToDo.png"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "your-form-id"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/mohammed-atir-956b78224/",
+		"twitter": "https://twitter.com/mohammedatir4",
+		"github": "https://github.com/MedAtir"
+	}
+}
